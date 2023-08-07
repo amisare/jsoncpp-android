@@ -37,7 +37,7 @@ LOCAL_SHARED_LIBRARIES += $(LIBJPEG_TURBO_LOCAL_SHARED_LIBRARIES)
 # your config
 ```
 
-#### Binary integration (only available jsoncpp 3.0.x)
+#### Binary integration (only available jsoncpp 1.0.0)
 
 Add android/binary/Android.mk to your project Android.mk
 
